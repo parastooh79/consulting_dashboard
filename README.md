@@ -29,3 +29,6 @@ Mohammad Javad Ahmadi , Negar Dodangeh , Zahra Babarahmati , Niloofar Nazari
 
 <h3> run command on terminal : </h3>
 <h4> ./manage.py runserver</h4>
+
+
+<h4>login username and password are in pdf file.</h4>
